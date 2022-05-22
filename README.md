@@ -1,2 +1,2 @@
 # Titanic
-Kaggle's famous Titanic competition.
+Kaggle's Titanic competition.
